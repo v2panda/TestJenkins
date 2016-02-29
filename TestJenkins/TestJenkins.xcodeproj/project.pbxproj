@@ -12,6 +12,8 @@
 		2867F4161C8412CE004E3593 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2867F4141C8412CE004E3593 /* Main.storyboard */; };
 		2867F4181C8412CE004E3593 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2867F4171C8412CE004E3593 /* Assets.xcassets */; };
 		2867F41B1C8412CE004E3593 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2867F4191C8412CE004E3593 /* LaunchScreen.storyboard */; };
+		2867F4231C842B7E004E3593 /* IMG_0483.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2867F4221C842B7E004E3593 /* IMG_0483.JPG */; };
+		2867F4251C842C1E004E3593 /* IMG_0562.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 2867F4241C842C1E004E3593 /* IMG_0562.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		2867F4171C8412CE004E3593 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2867F41A1C8412CE004E3593 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2867F41C1C8412CE004E3593 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2867F4221C842B7E004E3593 /* IMG_0483.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0483.JPG; sourceTree = "<group>"; };
+		2867F4241C842C1E004E3593 /* IMG_0562.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0562.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				2867F4101C8412CE004E3593 /* AppDelegate.swift */,
 				2867F4121C8412CE004E3593 /* ViewController.swift */,
 				2867F4141C8412CE004E3593 /* Main.storyboard */,
+				2867F4221C842B7E004E3593 /* IMG_0483.JPG */,
+				2867F4241C842C1E004E3593 /* IMG_0562.JPG */,
 				2867F4171C8412CE004E3593 /* Assets.xcassets */,
 				2867F4191C8412CE004E3593 /* LaunchScreen.storyboard */,
 				2867F41C1C8412CE004E3593 /* Info.plist */,
@@ -124,6 +130,8 @@
 			files = (
 				2867F41B1C8412CE004E3593 /* LaunchScreen.storyboard in Resources */,
 				2867F4181C8412CE004E3593 /* Assets.xcassets in Resources */,
+				2867F4231C842B7E004E3593 /* IMG_0483.JPG in Resources */,
+				2867F4251C842C1E004E3593 /* IMG_0562.JPG in Resources */,
 				2867F4161C8412CE004E3593 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +294,7 @@
 				2867F4211C8412CE004E3593 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
