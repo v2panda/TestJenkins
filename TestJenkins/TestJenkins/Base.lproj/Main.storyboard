@@ -16,7 +16,21 @@
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="u23-1t-WjB">
+                                <rect key="frame" x="167" y="285" width="266" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="08M-Li-6hs"/>
+                                    <constraint firstAttribute="width" constant="266" id="Imu-Jf-ufM"/>
+                                </constraints>
+                                <state key="normal" title="TestButton"/>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="u23-1t-WjB" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="3ng-lZ-N80"/>
+                            <constraint firstItem="u23-1t-WjB" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="xnL-sn-HvU"/>
+                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="TestJenkins" id="XCC-XG-FEZ"/>
                 </viewController>
