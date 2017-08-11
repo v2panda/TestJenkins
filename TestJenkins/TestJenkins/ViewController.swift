@@ -21,6 +21,9 @@ class ViewController: UIViewController {
     func dev() {
         //dev line3
     }
+    func a1() {
+        // a1
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
