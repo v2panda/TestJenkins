@@ -24,6 +24,10 @@ class ViewController: UIViewController {
     func a1() {
         // a1
     }
+    
+    func a2() {
+        // a2
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
