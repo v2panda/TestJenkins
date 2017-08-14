@@ -17,6 +17,10 @@ class ViewController: UIViewController {
         //test line2
         //test line3
     }
+    
+    func dev() {
+        //dev line3
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
